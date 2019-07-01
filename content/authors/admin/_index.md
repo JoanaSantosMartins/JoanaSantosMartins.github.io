@@ -42,7 +42,7 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: linkedin-in
-  icon_pack: fas
+  icon_pack: fab
   link: https://www.linkedin.com/in/joanasantosmartins/
 - icon: twitter
   icon_pack: fab
