@@ -3,11 +3,11 @@ title = "HABIT"
 date = 2019-07-02T15:20:57+02:00
 draft = false
 
-authors = ["Joana S. Martins", "Carlos Magalhães, "Vítor Vieira", "Miguel Rocha", "Nuno S. Osório"]
+authors = ["Joana S. Martins"]
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Machine Learning", "Immunotherapy", "Neoantigens"]
+tags = []
 
 # Project summary to display on homepage.
 summary = "A webserver for interactive T cell neoepitope discovery"
@@ -39,8 +39,3 @@ highlight = true
 
 +++
 
-  ## HABIT
-HABIT is a web platform designed to generate and analyse machine learning-based T cell epitope predictions for improved neoepitope discovery.
-
-
-Our *C++ library* is available [here](https://github.com/xclaeys/ElastoPhi). For more details see the corresponding [proceeding](https://hal.archives-ouvertes.fr/hal-01644518).
