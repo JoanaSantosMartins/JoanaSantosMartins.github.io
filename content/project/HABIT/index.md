@@ -13,7 +13,7 @@ tags = ["Machine Learning", "Immunotherapy", "Neoantigens"]
 summary = "A webserver for interactive T cell neoepitope discovery"
 
 # Optional image to display on homepage.
-#image_preview = ""
+#image_preview = "habitLogo.png"
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -39,7 +39,6 @@ highlight = true
 
 +++
 
-## CEMRACS 2016 Numerical challenges in parallel scientific computing July 18th - August 26th 
 HABIT is a web platform designed to generate and analyse machine learning-based T cell epitope predictions for improved neoepitope discovery.
 
 
