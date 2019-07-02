@@ -13,7 +13,7 @@ tags = ["Machine Learning", "Immunotherapy", "Neoantigens"]
 summary = "A webserver for interactive T cell neoepitope discovery"
 
 # Optional image to display on homepage.
-#image_preview = "habitLogo.png"
+#image_preview = ""
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
