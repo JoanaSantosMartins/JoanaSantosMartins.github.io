@@ -3,11 +3,11 @@ title = "HABIT"
 date = 2019-07-02T15:20:57+02:00
 draft = false
 
-authors = ["Joana S. Martins"]
+authors = ["Joana S. Martins", "Carlos Magalhães, "Vítor Vieira", "Miguel Rocha", "Nuno S. Osório"]
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = []
+tags = ["Machine Learning", "Immunotherapy", "Neoantigens"]
 
 # Project summary to display on homepage.
 summary = "A webserver for interactive T cell neoepitope discovery"
