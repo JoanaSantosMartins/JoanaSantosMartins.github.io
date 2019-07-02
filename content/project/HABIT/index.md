@@ -1,41 +1,46 @@
----
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
++++
+title = "HABIT"
+date = 2019-07-02T15:20:57+02:00
+draft = false
 
-title: "HABIT"
-summary: "HABIT is a web platform designed to generate and analyse machine learning-based T cell epitope predictions for improved neoepitope discovery."
-authors: []
-tags: []
-categories: []
-date: 2019-07-02T00:01:09+01:00
+authors = ["Joana S. Martins"]
+
+# Tags: can be used for filtering projects.
+# Example: `tags = ["machine-learning", "deep-learning"]`
+tags = []
+
+# Project summary to display on homepage.
+summary = "A webserver for interactive T cell neoepitope discovery"
+
+# Optional image to display on homepage.
+#image_preview = ""
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link = ""
+
+# Does the project detail page use math formatting?
+math = false
+
+# Does the project detail page use source code highlighting?
+highlight = true
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+# To use, add an image named `featured.jpg/png` to your project's folder. 
+[image]
+  # Caption (optional)
+  # caption = "Photo by Toa Heftiba on Unsplash"
 
-# Custom links (optional).
-#   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = "center"
 
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
+  # Show image only in page previews?
+  preview_only = true
 
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: ""
----
++++
+
+## CEMRACS 2016 Numerical challenges in parallel scientific computing July 18th - August 26th 
+HABIT is a web platform designed to generate and analyse machine learning-based T cell epitope predictions for improved neoepitope discovery.
+
+
+Our *C++ library* is available [here](https://github.com/xclaeys/ElastoPhi). For more details see the corresponding [proceeding](https://hal.archives-ouvertes.fr/hal-01644518).
