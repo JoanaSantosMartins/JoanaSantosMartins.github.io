@@ -1,28 +1,41 @@
-+++ title = "HABIT" date = 2018-03-08T22:46:44-05:00 draft = false
+---
+# Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-Tags: can be used for filtering projects.
-Example: tags = ["machine-learning", "deep-learning"]
-tags = ["Machine Learning", "Immunotherapy", "Neoantigens"]
+title: "HABIT"
+summary: "HABIT is a web platform designed to generate and analyse machine learning-based T cell epitope predictions for improved neoepitope discovery."
+authors: []
+tags: []
+categories: []
+date: 2019-07-02T00:01:09+01:00
 
-Project summary to display on homepage.
-summary = "A webserver for interactive T cell neoepitope discovery"
+# Optional external URL for project (replaces project detail page).
+external_link: ""
 
-Optional image to display on homepage.
-image_preview = ""
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
 
-Optional external URL for project (replaces project detail page).
-external_link = "http://habit.evobiomed.com"
+# Custom links (optional).
+#   Uncomment and edit lines below to show custom links.
+# links:
+# - name: Follow
+#   url: https://twitter.com
+#   icon_pack: fab
+#   icon: twitter
 
-Does the project detail page use math formatting?
-math = false
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
 
-Does the project detail page use source code highlighting?
-highlight = true
-
-Featured image
-Place your image in the static/img/ folder and reference its filename below, e.g. image = "example.jpg".
-[header] image = "" caption = ""
-
-+++
-
-HABIT is a web platform designed to generate and analyse machine learning-based T cell epitope predictions for improved neoepitope discovery.
+# Slides (optional).
+#   Associate this project with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+slides: ""
+---
