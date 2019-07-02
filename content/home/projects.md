@@ -5,8 +5,6 @@ widget = "portfolio" # See https://sourcethemes.com/academic/docs/page-builder/ 
 
 title = "Projects" subtitle = ""
 
-folder = "project"
-
 [content]
 
 Page type to display. E.g. project.
