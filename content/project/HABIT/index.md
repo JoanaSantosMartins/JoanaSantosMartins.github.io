@@ -16,7 +16,7 @@ summary = "A webserver for interactive T cell neoepitope discovery"
 #image_preview = ""
 
 # Optional external URL for project (replaces project detail page).
-external_link = "http://habit.evobiomed.com"
+external_link = ""
 
 # Does the project detail page use math formatting?
 math = false
