@@ -28,14 +28,14 @@ highlight = true
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  # caption = "Photo by Toa Heftiba on Unsplash"
+  # caption = ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "center"
 
   # Show image only in page previews?
-  preview_only = true
+  preview_only = false
 
 +++
 
