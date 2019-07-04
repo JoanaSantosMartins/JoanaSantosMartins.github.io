@@ -3,7 +3,7 @@ title = "HanDBr"
 date = 2019-07-02T15:20:57+02:00
 draft = false
 
-authors = ["Bernardino G. A. Souto", "Joana S. Martins", "Ana S. Pereira", "Vera Triunfante", "Pedro Araúj", "Nuno S. Osório"]
+authors = ["Bernardino G.A. Souto", "Joana S. Martins", "Ana S. Pereira", "Vera Triunfante", "Pedro Araújo", "Nuno S. Osório"]
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -32,10 +32,10 @@ highlight = true
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "center"
+  focal_point = ""
 
   # Show image only in page previews?
-  preview_only = true
+  preview_only = false
 
 +++
 
