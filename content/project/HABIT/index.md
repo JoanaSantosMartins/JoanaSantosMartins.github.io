@@ -41,4 +41,4 @@ highlight = true
 
 HABIT is a web platform designed to generate and analyse machine learning-based T cell epitope predictions for improved neoepitope discovery.
 
-HABIT is implemented using shiny package powered by RStudio, it is available [here](http://habit.evobiomed.com/).
+HABIT was implemented using shiny package powered by RStudio, it is available [here](http://habit.evobiomed.com/).
