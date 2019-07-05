@@ -41,7 +41,7 @@ subtitle = ""
 [[feature]]
   icon = "database"
   icon_pack = "fas"
-  name = "Database"
+  name = "Databases"
   description = ""
 
 +++
