@@ -33,4 +33,13 @@ date_format = "Jan 2006"
   #* Deploying
   #"""
 
+[[experience]]
+  title = "[MSc Student] Junior Software Developer "
+  company = "ICVS - Life and Health Sciences Research Institute"
+  company_url = ""
+  location = "Braga, Portugal"
+  date_start = "2018-08-06"
+  date_end = ""
+  description = ""
+
 +++
