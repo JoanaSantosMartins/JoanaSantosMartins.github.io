@@ -38,8 +38,8 @@ date_format = "Jan 2006"
   company = "ICVS - Life and Health Sciences Research Institute"
   company_url = ""
   location = "Braga, Portugal"
-  date_start = "2018-08-06"
-  date_end = ""
-  description = ""
+  date_start = "2016-11-1"
+  date_end = "2017-12-7"
+  description = "Master thesis: "HABIT (HLA Binding InTelligence) - An integrated web server for generation and advanced interpretation of peptide HLA binding predictions.""
 
 +++
