@@ -24,7 +24,7 @@ publication = "Cancer Informatics, May 2019, Vol. 18"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "Because of the non-local nature of the integral kernels at play, the discretization of boundary integral equations leads to dense matrices, which would imply high computational complexity. Acceleration techniques, such as hierarchical matrix strategies combined with Adaptive Cross Approximation (ACA), are available in literature. Here we apply such a technique to the solution of an elastostatic problem, arising from industrial applications, posed at the surface of highly irregular cracks networks."
+abstract = "Immune responses mediated by T cells are aimed at specific peptides, designated T cell epitopes, that are recognized when bound to human leukocyte antigen (HLA) molecules. The HLA genes are remarkably polymorphic in the human population allowing a broad and fine-tuned capacity to bind a wide array of peptide sequences. Polymorphisms might generate neoepitopes by impacting the HLA-peptide interaction and potentially alter the level and type of generated T cell responses. Multiple algorithms and tools based on machine learning (ML) have been implemented and are able to predict HLA-peptide binding affinity with considerable accuracy. Challenges in this field include the availability of adequate epitope datasets for training and benchmarking and the development of fully integrated pipelines going from next-generation sequencing to neoepitope prediction and quality analysis metrics. Effectively predicting neoepitopes from in silico data is a demanding task that has been facilitated by ML and will be of great value for the future of personalized immunotherapies against cancer and other diseases."
 summary = ""
 
 # Featured image thumbnail (optional)
@@ -38,16 +38,16 @@ featured = false
 #   Simply enter your project's filename without extension.
 #   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
 #   Otherwise, set `projects = []`.
-projects = ["cemracs"]
+projects = [""]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Compression","hierarchical"]
+tags = ["Neoepitopes", "T-cells", "Immunotherapy", "Machine Learning", "Epitope Prediction"]
 
 # Links (optional).
-url_pdf = "https://www.esaim-proc.org/articles/proc/pdf/2018/03/proc_esaim2018_135.pdf"
-url_preprint = "https://hal.inria.fr/hal-01644518/document"
-url_code = "https://github.com/xclaeys/ElastoPhi"
+url_pdf = "https://journals.sagepub.com/doi/pdf/10.1177/1176935119852081"
+url_preprint = ""
+url_code = ""
 url_dataset = ""
 url_project = ""
 url_slides = ""
@@ -58,10 +58,10 @@ url_source = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # links = [{name = "Custom Link", url = "http://example.org"}]
-links = [{name = "HAL", url = "https://hal.archives-ouvertes.fr/hal-01644518"}]
+links = [{...}]
 
 # Digital Object Identifier (DOI)
-doi = "10.1051/proc/201863135"
+doi = "10.1177/1176935119852081"
 
 # Does this page contain LaTeX math? (true/false)
 math = false
