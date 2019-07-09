@@ -20,7 +20,7 @@ authors = ["Joana Martins","Carlos Magalhães", "Miguel Rocha","Nuno S. Osório"
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "ESAIM: Proceedings and Surveys, June 2018, Vol. 63, p. 135-151"
+publication = "Cancer Informatics, May 2019, Vol. 18"
 publication_short = ""
 
 # Abstract and optional shortened version.
