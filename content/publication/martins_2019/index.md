@@ -1,10 +1,10 @@
 +++
 title = "Machine Learning-Enhanced T Cell Neoepitope Discovery for Immunotherapy Design"
-date = 2018-09-14T15:21:33+02:00
+date = 2019-05-23T15:21:33+02:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Ibtihel Ben Gharbia","Marcella Bonazzoli", "Xavier Claeys","admin", "Pierre-Henri Tournier"]
+authors = ["Joana Martins","Carlos Magalhães", "Miguel Rocha","Nuno S. Osório"]
 
 # Publication type.
 # Legend:
