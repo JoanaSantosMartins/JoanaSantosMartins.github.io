@@ -1,5 +1,5 @@
 +++
-title = "Fast solution of boundary integral equations for elasticity around a crack network: a comparative study"
+title = "Machine Learning-Enhanced T Cell Neoepitope Discovery for Immunotherapy Design"
 date = 2018-09-14T15:21:33+02:00
 draft = false
 
