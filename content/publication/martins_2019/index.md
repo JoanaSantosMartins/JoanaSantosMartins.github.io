@@ -25,7 +25,7 @@ publication_short = ""
 
 # Abstract and optional shortened version.
 abstract = "Immune responses mediated by T cells are aimed at specific peptides, designated T cell epitopes, that are recognized when bound to human leukocyte antigen (HLA) molecules. The HLA genes are remarkably polymorphic in the human population allowing a broad and fine-tuned capacity to bind a wide array of peptide sequences. Polymorphisms might generate neoepitopes by impacting the HLA-peptide interaction and potentially alter the level and type of generated T cell responses. Multiple algorithms and tools based on machine learning (ML) have been implemented and are able to predict HLA-peptide binding affinity with considerable accuracy. Challenges in this field include the availability of adequate epitope datasets for training and benchmarking and the development of fully integrated pipelines going from next-generation sequencing to neoepitope prediction and quality analysis metrics. Effectively predicting neoepitopes from in silico data is a demanding task that has been facilitated by ML and will be of great value for the future of personalized immunotherapies against cancer and other diseases."
-#summary = ""
+summary = ""
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -58,7 +58,7 @@ url_source = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # links = [{name = "Custom Link", url = "http://example.org"}]
-links = [{...}]
+links = ""
 
 # Digital Object Identifier (DOI)
 doi = "10.1177/1176935119852081"
