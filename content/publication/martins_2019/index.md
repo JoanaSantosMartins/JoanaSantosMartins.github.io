@@ -1,7 +1,7 @@
 +++
 title = "Machine Learning-Enhanced T Cell Neoepitope Discovery for Immunotherapy Design"
-date = 2019-05-23T15:21:33+02:00
-draft = false
+#date = 2019-05-23T15:21:33+02:00
+#draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Joana S. Martins","Carlos Magalhães", "Miguel Rocha","Nuno S. Osório"]
@@ -17,10 +17,10 @@ authors = ["Joana S. Martins","Carlos Magalhães", "Miguel Rocha","Nuno S. Osór
 # 6 = Book section
 # 7 = Thesis
 # 8 = Patent
-publication_types = ["2"]
+#publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Cancer Informatics, May 2019, Vol. 18"
+#publication = "Cancer Informatics, May 2019, Vol. 18"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -42,10 +42,10 @@ projects = [""]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Neoepitopes", "T-cells", "Immunotherapy", "Machine Learning", "Epitope Prediction"]
+#tags = ["Neoepitopes", "T-cells", "Immunotherapy", "Machine Learning", "Epitope Prediction"]
 
 # Links (optional).
-url_pdf = "https://journals.sagepub.com/doi/pdf/10.1177/1176935119852081"
+#url_pdf = "https://journals.sagepub.com/doi/pdf/10.1177/1176935119852081"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
